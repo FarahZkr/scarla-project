@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "305153353779",
+    "project_id": "scarla-zero-two",
+    "storage_bucket": "scarla-zero-two.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305153353779:android:d14054025adc247f3c5b46",
+        "android_client_info": {
+          "package_name": "com.squad.scarla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305153353779-3t97fvgi30epq4qcs7a5k7s8voqriacl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq-YhwGwdtR97B1ock7ajhN1vPKk6ZQHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305153353779-3t97fvgi30epq4qcs7a5k7s8voqriacl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
